@@ -1,3 +1,3 @@
 This is a sample project to illustrate Next.js Static Routing.
 
-The tutorial can be found (here)[]. 
+This branch has all the pages defined but no routing in place.
