@@ -1,4 +1,4 @@
-#A Beginner's Guide to Routing in Next.js
+# A Beginner's Guide to Routing in Next.js
 This is a sample project to illustrate Next.js Static Routing.
 
 The repository consists of:
