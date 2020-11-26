@@ -1,6 +1,12 @@
 #A Beginner's Guide to Routing in Next.js
 This is a sample project to illustrate Next.js Static Routing.
 
+The repository consists of:
+- components: Reusables components such as Footer, Nav, Header, ...
+- pages: all the differents pages (Home, About, New Arrivals)
+- styles: CSS styling
+- data.js
+
 There are two branches:
 - main: The starter project with no routing
 - final: with all the routing implemented
